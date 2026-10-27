@@ -1,0 +1,43 @@
+{
+  "published_at": "2026-10-27T23:36:33.084178+00:00",
+  "account": "Ineeoluwa",
+  "repositories": [
+    {
+      "repo_id": "Ineeoluwa/support-intent-grouped",
+      "kind": "dataset",
+      "commit": "80e896a661e53b0ce42ce153d686556cff79e801",
+      "url": "https://huggingface.co/datasets/Ineeoluwa/support-intent-grouped"
+    },
+    {
+      "repo_id": "Ineeoluwa/voice-workflow-scenarios",
+      "kind": "dataset",
+      "commit": "790c9b26d47be6cb9e102360d2ed99e31a2672ae",
+      "url": "https://huggingface.co/datasets/Ineeoluwa/voice-workflow-scenarios"
+    },
+    {
+      "repo_id": "Ineeoluwa/adapterlab-support-intent-tiny",
+      "kind": "model",
+      "commit": "02ebb713963ef27882261a2788f07e5ef944640e",
+      "url": "https://huggingface.co/Ineeoluwa/adapterlab-support-intent-tiny"
+    },
+    {
+      "repo_id": "Ineeoluwa/adapterlab-inference",
+      "kind": "space",
+      "commit": "10d1118b91dc3e99159d1def5d295040a052d82a",
+      "url": "https://huggingface.co/spaces/Ineeoluwa/adapterlab-inference"
+    },
+    {
+      "repo_id": "Ineeoluwa/ai-sdr-workflow-lab",
+      "kind": "space",
+      "commit": "049aa89ed4e28ba8e12eb8f0bd46219ce69ae719",
+      "url": "https://huggingface.co/spaces/Ineeoluwa/ai-sdr-workflow-lab"
+    },
+    {
+      "repo_id": "Ineeoluwa/hotel-receptionist-lab",
+      "kind": "space",
+      "commit": "0f2074a69cbd08686c49355239ecdad4d509628f",
+      "url": "https://huggingface.co/spaces/Ineeoluwa/hotel-receptionist-lab"
+    }
+  ],
+  "collection": "https://huggingface.co/collections/Ineeoluwa/applied-ai-models-training-and-voice-systems-6ae1358172a8505c7a608bbf"
+}

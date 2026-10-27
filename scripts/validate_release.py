@@ -6,7 +6,7 @@ import re
 from pathlib import Path
 
 import yaml
-from huggingface_hub import DatasetCard, ModelCard
+from huggingface_hub import DatasetCard, ModelCard, RepoCard
 
 ROOT = Path(__file__).resolve().parents[1]
 RELEASES = ROOT / "releases"
@@ -69,7 +69,8 @@ def main():
             raw = (directory / "README.md").read_text().split("---", 2)[1]
             config = yaml.safe_load(raw)
             assert config["sdk"] == "static" and config["app_file"] == "index.html"
-            assert len(config["short_description"]) <= 100
+            assert len(config["short_description"]) <= 60
+            RepoCard.load(str(directory / "README.md")).validate(repo_type="space")
             assert (directory / "index.html").is_file()
             assert (directory / "source/web/src/voice-engine.mjs").is_file()
         entries = {}

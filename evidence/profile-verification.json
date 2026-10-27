@@ -1,0 +1,35 @@
+{
+  "profile": "https://huggingface.co/Ineeoluwa",
+  "models": [
+    "Ineeoluwa/adapterlab-support-intent-tiny"
+  ],
+  "datasets": [
+    "Ineeoluwa/support-intent-grouped",
+    "Ineeoluwa/voice-workflow-scenarios"
+  ],
+  "spaces": [
+    "Ineeoluwa/adapterlab-inference",
+    "Ineeoluwa/ai-sdr-workflow-lab",
+    "Ineeoluwa/hotel-receptionist-lab"
+  ],
+  "support-intent-grouped": {
+    "viewer_http_status": 200,
+    "viewer_status": {
+      "preview": false,
+      "viewer": false,
+      "search": false,
+      "filter": false,
+      "statistics": false
+    }
+  },
+  "voice-workflow-scenarios": {
+    "viewer_http_status": 200,
+    "viewer_status": {
+      "preview": false,
+      "viewer": false,
+      "search": false,
+      "filter": false,
+      "statistics": false
+    }
+  }
+}

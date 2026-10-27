@@ -60,6 +60,10 @@ def main():
     )
     if not args.publish:
         return
+    initialization_path = ROOT / "evidence/repository-initialization.json"
+    initializations = (
+        json.loads(initialization_path.read_text()) if initialization_path.exists() else {}
+    )
     published = []
     for kind, name, folder in REPOS:
         repo_id = f"{ACCOUNT}/{name}"
@@ -72,9 +76,14 @@ def main():
                     marker_path = hf_hub_download(repo_id, ".release.json", repo_type=kind)
                     marker = json.loads(Path(marker_path).read_text())
                 except EntryNotFoundError:
-                    raise SystemExit(
-                        f"Existing repository is not this release; refusing to overwrite {repo_id}"
-                    )
+                    if initializations.get(repo_id) == info.sha:
+                        # create_repo adds a default static app. Resume only the
+                        # exact untouched initialization created by this release.
+                        marker = {"release": RELEASE_ID}
+                    else:
+                        raise SystemExit(
+                            f"Existing repository is not this release; refusing to overwrite {repo_id}"
+                        )
                 if marker.get("release") != RELEASE_ID:
                     raise SystemExit(f"Release ownership marker does not match: {repo_id}")
         except RepositoryNotFoundError:
@@ -85,6 +94,8 @@ def main():
                 **({"space_sdk": "static"} if kind == "space" else {}),
             )
             info = api.repo_info(repo_id, repo_type=kind)
+            initializations[repo_id] = info.sha
+            initialization_path.write_text(json.dumps(initializations, indent=2) + "\n")
         (directory / ".release.json").write_text(
             json.dumps({"release": RELEASE_ID, "account": ACCOUNT}) + "\n"
         )
