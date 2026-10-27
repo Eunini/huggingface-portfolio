@@ -1,0 +1,18 @@
+{
+  "support-intent-grouped": {
+    "status": "passed",
+    "revision": "80e896a661e53b0ce42ce153d686556cff79e801",
+    "splits": {
+      "train": 180,
+      "validation": 30,
+      "test": 30
+    }
+  },
+  "voice-workflow-scenarios": {
+    "status": "passed",
+    "revision": "790c9b26d47be6cb9e102360d2ed99e31a2672ae",
+    "splits": {
+      "test": 34
+    }
+  }
+}
