@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Help me correct the personal information on user demo-0701. This started today.",
+    "label": "account",
+    "scores": [
+      0.20855899155139923, 0.09999484568834305, 0.17023006081581116,
+      0.1204305961728096, 0.20445522665977478, 0.19633027911186218
+    ]
+  },
+  {
+    "text": "Help me correct the personal information on user demo-0702. Please check when you can.",
+    "label": "account",
+    "scores": [
+      0.22265569865703583, 0.09945312142372131, 0.1859208345413208,
+      0.11631733924150467, 0.19439363479614258, 0.1812594085931778
+    ]
+  },
+  {
+    "text": "Help me correct the personal information on user demo-0703. I have already tried again.",
+    "label": "account",
+    "scores": [
+      0.2251613885164261, 0.10249482095241547, 0.20476806163787842,
+      0.10870267450809479, 0.19170956313610077, 0.16716346144676208
+    ]
+  },
+  {
+    "text": "Help me correct the personal information on user demo-0704. Could someone investigate?",
+    "label": "account",
+    "scores": [
+      0.2043701857328415, 0.09663647413253784, 0.18006005883216858,
+      0.1196962222456932, 0.19732092320919037, 0.20191621780395508
+    ]
+  },
+  {
+    "text": "Help me correct the personal information on user demo-0705. The problem is still happening.",
+    "label": "account",
+    "scores": [
+      0.2143414169549942, 0.1011836901307106, 0.18018101155757904,
+      0.11788718402385712, 0.20416657626628876, 0.1822400987148285
+    ]
+  },
+  {
+    "text": "Please explain the extra amount on invoice demo-0701. This started today.",
+    "label": "billing",
+    "scores": [
+      0.22993528842926025, 0.13346855342388153, 0.24192790687084198,
+      0.14414528012275696, 0.10767045617103577, 0.14285247027873993
+    ]
+  },
+  {
+    "text": "Please explain the extra amount on invoice demo-0702. Please check when you can.",
+    "label": "billing",
+    "scores": [
+      0.24015527963638306, 0.12303345650434494, 0.2642182409763336,
+      0.12837691605091095, 0.11458524316549301, 0.1296309381723404
+    ]
+  },
+  {
+    "text": "Please explain the extra amount on invoice demo-0703. I have already tried again.",
+    "label": "billing",
+    "scores": [
+      0.22833307087421417, 0.12345059961080551, 0.31070026755332947,
+      0.12570257484912872, 0.10140804946422577, 0.11040542274713516
+    ]
+  },
+  {
+    "text": "Please explain the extra amount on invoice demo-0704. Could someone investigate?",
+    "label": "billing",
+    "scores": [
+      0.22086024284362793, 0.11506448686122894, 0.24636569619178772,
+      0.14597958326339722, 0.11185386776924133, 0.15987613797187805
+    ]
+  },
+  {
+    "text": "Please explain the extra amount on invoice demo-0705. The problem is still happening.",
+    "label": "billing",
+    "scores": [
+      0.2247227132320404, 0.1374795287847519, 0.25572940707206726,
+      0.14125393331050873, 0.1098339632153511, 0.13098043203353882
+    ]
+  },
+  {
+    "text": "Please cancel subscription demo-0101 before the next renewal. This started today.",
+    "label": "cancellation",
+    "scores": [
+      0.10679788142442703, 0.1695939600467682, 0.11355634033679962,
+      0.2685058116912842, 0.16087879240512848, 0.1806672066450119
+    ]
+  },
+  {
+    "text": "Please cancel subscription demo-0102 before the next renewal. Please check when you can.",
+    "label": "cancellation",
+    "scores": [
+      0.1150493174791336, 0.17419861257076263, 0.11533290892839432,
+      0.25681984424591064, 0.16936416923999786, 0.16923518478870392
+    ]
+  },
+  {
+    "text": "Please cancel subscription demo-0103 before the next renewal. I have already tried again.",
+    "label": "cancellation",
+    "scores": [
+      0.11368777602910995, 0.1926400065422058, 0.12874777615070343,
+      0.2570292055606842, 0.16514836251735687, 0.14274686574935913
+    ]
+  },
+  {
+    "text": "Please cancel subscription demo-0104 before the next renewal. Could someone investigate?",
+    "label": "cancellation",
+    "scores": [
+      0.10421053320169449, 0.17563696205615997, 0.10392692685127258,
+      0.28273242712020874, 0.15187790989875793, 0.1816151887178421
+    ]
+  },
+  {
+    "text": "Please cancel subscription demo-0105 before the next renewal. The problem is still happening.",
+    "label": "cancellation",
+    "scores": [
+      0.10426224023103714, 0.18003877997398376, 0.10878244042396545,
+      0.274380087852478, 0.16304618120193481, 0.1694902628660202
+    ]
+  },
+  {
+    "text": "The tracking information for shipment demo-0301 has not updated. This started today.",
+    "label": "delivery",
+    "scores": [
+      0.09836340695619583, 0.13904419541358948, 0.08431437611579895,
+      0.2519415020942688, 0.17071793973445892, 0.2556185722351074
+    ]
+  },
+  {
+    "text": "The tracking information for shipment demo-0302 has not updated. Please check when you can.",
+    "label": "delivery",
+    "scores": [
+      0.10045155137777328, 0.14125840365886688, 0.07829484343528748,
+      0.24613425135612488, 0.179056316614151, 0.25480470061302185
+    ]
+  },
+  {
+    "text": "The tracking information for shipment demo-0303 has not updated. I have already tried again.",
+    "label": "delivery",
+    "scores": [
+      0.10148493200540543, 0.1513378918170929, 0.09133990854024887,
+      0.25107550621032715, 0.172278493642807, 0.23248328268527985
+    ]
+  },
+  {
+    "text": "The tracking information for shipment demo-0304 has not updated. Could someone investigate?",
+    "label": "delivery",
+    "scores": [
+      0.0966944620013237, 0.14033670723438263, 0.08519931137561798,
+      0.25866949558258057, 0.16700559854507446, 0.25209441781044006
+    ]
+  },
+  {
+    "text": "The tracking information for shipment demo-0305 has not updated. The problem is still happening.",
+    "label": "delivery",
+    "scores": [
+      0.09637557715177536, 0.14795969426631927, 0.07866181433200836,
+      0.2514565885066986, 0.1757582128047943, 0.24978812038898468
+    ]
+  },
+  {
+    "text": "The sign-in page says the credentials for account demo-0801 are invalid. This started today.",
+    "label": "login",
+    "scores": [
+      0.16886264085769653, 0.12377122789621353, 0.10663643479347229,
+      0.18759335577487946, 0.2082635760307312, 0.204872727394104
+    ]
+  },
+  {
+    "text": "The sign-in page says the credentials for account demo-0802 are invalid. Please check when you can.",
+    "label": "login",
+    "scores": [
+      0.18244874477386475, 0.1285093128681183, 0.11304823309183121,
+      0.18337558209896088, 0.20103664696216583, 0.19158154726028442
+    ]
+  },
+  {
+    "text": "The sign-in page says the credentials for account demo-0803 are invalid. I have already tried again.",
+    "label": "login",
+    "scores": [
+      0.1815527081489563, 0.12931512296199799, 0.11914586275815964,
+      0.1806720644235611, 0.2053532898426056, 0.18396101891994476
+    ]
+  },
+  {
+    "text": "The sign-in page says the credentials for account demo-0804 are invalid. Could someone investigate?",
+    "label": "login",
+    "scores": [
+      0.16409264504909515, 0.11814067512750626, 0.10137879103422165,
+      0.1954803466796875, 0.2057502120733261, 0.21515734493732452
+    ]
+  },
+  {
+    "text": "The sign-in page says the credentials for account demo-0805 are invalid. The problem is still happening.",
+    "label": "login",
+    "scores": [
+      0.16977566480636597, 0.129007026553154, 0.1068442314863205,
+      0.18892528116703033, 0.20826458930969238, 0.19718314707279205
+    ]
+  },
+  {
+    "text": "The dashboard for workspace demo-0301 shows a blank screen. This started today.",
+    "label": "technical",
+    "scores": [
+      0.12275692075490952, 0.12109438329935074, 0.10844524204730988,
+      0.19324259459972382, 0.20067010819911957, 0.2537907660007477
+    ]
+  },
+  {
+    "text": "The dashboard for workspace demo-0302 shows a blank screen. Please check when you can.",
+    "label": "technical",
+    "scores": [
+      0.12721148133277893, 0.1224810779094696, 0.10676996409893036,
+      0.18593506515026093, 0.21146486699581146, 0.2461375743150711
+    ]
+  },
+  {
+    "text": "The dashboard for workspace demo-0303 shows a blank screen. I have already tried again.",
+    "label": "technical",
+    "scores": [
+      0.13033898174762726, 0.1310606747865677, 0.11907758563756943,
+      0.18962177634239197, 0.20077335834503174, 0.2291276752948761
+    ]
+  },
+  {
+    "text": "The dashboard for workspace demo-0304 shows a blank screen. Could someone investigate?",
+    "label": "technical",
+    "scores": [
+      0.1219526156783104, 0.12092079967260361, 0.1057792603969574,
+      0.19662907719612122, 0.20167696475982666, 0.2530412971973419
+    ]
+  },
+  {
+    "text": "The dashboard for workspace demo-0305 shows a blank screen. The problem is still happening.",
+    "label": "technical",
+    "scores": [
+      0.12099456042051315, 0.1264781504869461, 0.10712626576423645,
+      0.19623024761676788, 0.2099665403366089, 0.23920422792434692
+    ]
+  }
+]

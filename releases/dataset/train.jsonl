@@ -1,0 +1,180 @@
+{"text": "I need to modify my communication preferences for account demo-0801. This started today.", "label": "account", "group": "account-family-7", "split": "train"}
+{"text": "I need to modify my communication preferences for account demo-0802. Please check when you can.", "label": "account", "group": "account-family-7", "split": "train"}
+{"text": "I need to modify my communication preferences for account demo-0803. I have already tried again.", "label": "account", "group": "account-family-7", "split": "train"}
+{"text": "I need to modify my communication preferences for account demo-0804. Could someone investigate?", "label": "account", "group": "account-family-7", "split": "train"}
+{"text": "I need to modify my communication preferences for account demo-0805. The problem is still happening.", "label": "account", "group": "account-family-7", "split": "train"}
+{"text": "I want to replace the contact email on account demo-0501. This started today.", "label": "account", "group": "account-family-4", "split": "train"}
+{"text": "I want to replace the contact email on account demo-0502. Please check when you can.", "label": "account", "group": "account-family-4", "split": "train"}
+{"text": "I want to replace the contact email on account demo-0503. I have already tried again.", "label": "account", "group": "account-family-4", "split": "train"}
+{"text": "I want to replace the contact email on account demo-0504. Could someone investigate?", "label": "account", "group": "account-family-4", "split": "train"}
+{"text": "I want to replace the contact email on account demo-0505. The problem is still happening.", "label": "account", "group": "account-family-4", "split": "train"}
+{"text": "My phone number has changed for profile demo-0401. This started today.", "label": "account", "group": "account-family-3", "split": "train"}
+{"text": "My phone number has changed for profile demo-0402. Please check when you can.", "label": "account", "group": "account-family-3", "split": "train"}
+{"text": "My phone number has changed for profile demo-0403. I have already tried again.", "label": "account", "group": "account-family-3", "split": "train"}
+{"text": "My phone number has changed for profile demo-0404. Could someone investigate?", "label": "account", "group": "account-family-3", "split": "train"}
+{"text": "My phone number has changed for profile demo-0405. The problem is still happening.", "label": "account", "group": "account-family-3", "split": "train"}
+{"text": "Please change the display name for account demo-0201. This started today.", "label": "account", "group": "account-family-1", "split": "train"}
+{"text": "Please change the display name for account demo-0202. Please check when you can.", "label": "account", "group": "account-family-1", "split": "train"}
+{"text": "Please change the display name for account demo-0203. I have already tried again.", "label": "account", "group": "account-family-1", "split": "train"}
+{"text": "Please change the display name for account demo-0204. Could someone investigate?", "label": "account", "group": "account-family-1", "split": "train"}
+{"text": "Please change the display name for account demo-0205. The problem is still happening.", "label": "account", "group": "account-family-1", "split": "train"}
+{"text": "The company details on profile demo-0601 need updating. This started today.", "label": "account", "group": "account-family-5", "split": "train"}
+{"text": "The company details on profile demo-0602 need updating. Please check when you can.", "label": "account", "group": "account-family-5", "split": "train"}
+{"text": "The company details on profile demo-0603 need updating. I have already tried again.", "label": "account", "group": "account-family-5", "split": "train"}
+{"text": "The company details on profile demo-0604 need updating. Could someone investigate?", "label": "account", "group": "account-family-5", "split": "train"}
+{"text": "The company details on profile demo-0605 need updating. The problem is still happening.", "label": "account", "group": "account-family-5", "split": "train"}
+{"text": "Where can I edit the address linked to user demo-0301? This started today.", "label": "account", "group": "account-family-2", "split": "train"}
+{"text": "Where can I edit the address linked to user demo-0302? Please check when you can.", "label": "account", "group": "account-family-2", "split": "train"}
+{"text": "Where can I edit the address linked to user demo-0303? I have already tried again.", "label": "account", "group": "account-family-2", "split": "train"}
+{"text": "Where can I edit the address linked to user demo-0304? Could someone investigate?", "label": "account", "group": "account-family-2", "split": "train"}
+{"text": "Where can I edit the address linked to user demo-0305? The problem is still happening.", "label": "account", "group": "account-family-2", "split": "train"}
+{"text": "I need a breakdown of the fees on bill demo-0401. This started today.", "label": "billing", "group": "billing-family-3", "split": "train"}
+{"text": "I need a breakdown of the fees on bill demo-0402. Please check when you can.", "label": "billing", "group": "billing-family-3", "split": "train"}
+{"text": "I need a breakdown of the fees on bill demo-0403. I have already tried again.", "label": "billing", "group": "billing-family-3", "split": "train"}
+{"text": "I need a breakdown of the fees on bill demo-0404. Could someone investigate?", "label": "billing", "group": "billing-family-3", "split": "train"}
+{"text": "I need a breakdown of the fees on bill demo-0405. The problem is still happening.", "label": "billing", "group": "billing-family-3", "split": "train"}
+{"text": "Invoice demo-0101 has a charge I do not recognize. This started today.", "label": "billing", "group": "billing-family-0", "split": "train"}
+{"text": "Invoice demo-0102 has a charge I do not recognize. Please check when you can.", "label": "billing", "group": "billing-family-0", "split": "train"}
+{"text": "Invoice demo-0103 has a charge I do not recognize. I have already tried again.", "label": "billing", "group": "billing-family-0", "split": "train"}
+{"text": "Invoice demo-0104 has a charge I do not recognize. Could someone investigate?", "label": "billing", "group": "billing-family-0", "split": "train"}
+{"text": "Invoice demo-0105 has a charge I do not recognize. The problem is still happening.", "label": "billing", "group": "billing-family-0", "split": "train"}
+{"text": "My payment for invoice demo-0501 is not reflected in the balance. This started today.", "label": "billing", "group": "billing-family-4", "split": "train"}
+{"text": "My payment for invoice demo-0502 is not reflected in the balance. Please check when you can.", "label": "billing", "group": "billing-family-4", "split": "train"}
+{"text": "My payment for invoice demo-0503 is not reflected in the balance. I have already tried again.", "label": "billing", "group": "billing-family-4", "split": "train"}
+{"text": "My payment for invoice demo-0504 is not reflected in the balance. Could someone investigate?", "label": "billing", "group": "billing-family-4", "split": "train"}
+{"text": "My payment for invoice demo-0505 is not reflected in the balance. The problem is still happening.", "label": "billing", "group": "billing-family-4", "split": "train"}
+{"text": "The total on receipt demo-0301 is higher than expected. This started today.", "label": "billing", "group": "billing-family-2", "split": "train"}
+{"text": "The total on receipt demo-0302 is higher than expected. Please check when you can.", "label": "billing", "group": "billing-family-2", "split": "train"}
+{"text": "The total on receipt demo-0303 is higher than expected. I have already tried again.", "label": "billing", "group": "billing-family-2", "split": "train"}
+{"text": "The total on receipt demo-0304 is higher than expected. Could someone investigate?", "label": "billing", "group": "billing-family-2", "split": "train"}
+{"text": "The total on receipt demo-0305 is higher than expected. The problem is still happening.", "label": "billing", "group": "billing-family-2", "split": "train"}
+{"text": "There is an unexpected transaction on statement demo-0601. This started today.", "label": "billing", "group": "billing-family-5", "split": "train"}
+{"text": "There is an unexpected transaction on statement demo-0602. Please check when you can.", "label": "billing", "group": "billing-family-5", "split": "train"}
+{"text": "There is an unexpected transaction on statement demo-0603. I have already tried again.", "label": "billing", "group": "billing-family-5", "split": "train"}
+{"text": "There is an unexpected transaction on statement demo-0604. Could someone investigate?", "label": "billing", "group": "billing-family-5", "split": "train"}
+{"text": "There is an unexpected transaction on statement demo-0605. The problem is still happening.", "label": "billing", "group": "billing-family-5", "split": "train"}
+{"text": "Why was I charged twice for subscription demo-0201? This started today.", "label": "billing", "group": "billing-family-1", "split": "train"}
+{"text": "Why was I charged twice for subscription demo-0202? Please check when you can.", "label": "billing", "group": "billing-family-1", "split": "train"}
+{"text": "Why was I charged twice for subscription demo-0203? I have already tried again.", "label": "billing", "group": "billing-family-1", "split": "train"}
+{"text": "Why was I charged twice for subscription demo-0204? Could someone investigate?", "label": "billing", "group": "billing-family-1", "split": "train"}
+{"text": "Why was I charged twice for subscription demo-0205? The problem is still happening.", "label": "billing", "group": "billing-family-1", "split": "train"}
+{"text": "Do not renew the service associated with plan demo-0801. This started today.", "label": "cancellation", "group": "cancellation-family-7", "split": "train"}
+{"text": "Do not renew the service associated with plan demo-0802. Please check when you can.", "label": "cancellation", "group": "cancellation-family-7", "split": "train"}
+{"text": "Do not renew the service associated with plan demo-0803. I have already tried again.", "label": "cancellation", "group": "cancellation-family-7", "split": "train"}
+{"text": "Do not renew the service associated with plan demo-0804. Could someone investigate?", "label": "cancellation", "group": "cancellation-family-7", "split": "train"}
+{"text": "Do not renew the service associated with plan demo-0805. The problem is still happening.", "label": "cancellation", "group": "cancellation-family-7", "split": "train"}
+{"text": "How do I end my membership demo-0301? This started today.", "label": "cancellation", "group": "cancellation-family-2", "split": "train"}
+{"text": "How do I end my membership demo-0302? Please check when you can.", "label": "cancellation", "group": "cancellation-family-2", "split": "train"}
+{"text": "How do I end my membership demo-0303? I have already tried again.", "label": "cancellation", "group": "cancellation-family-2", "split": "train"}
+{"text": "How do I end my membership demo-0304? Could someone investigate?", "label": "cancellation", "group": "cancellation-family-2", "split": "train"}
+{"text": "How do I end my membership demo-0305? The problem is still happening.", "label": "cancellation", "group": "cancellation-family-2", "split": "train"}
+{"text": "I no longer need service plan demo-0501; please close it. This started today.", "label": "cancellation", "group": "cancellation-family-4", "split": "train"}
+{"text": "I no longer need service plan demo-0502; please close it. Please check when you can.", "label": "cancellation", "group": "cancellation-family-4", "split": "train"}
+{"text": "I no longer need service plan demo-0503; please close it. I have already tried again.", "label": "cancellation", "group": "cancellation-family-4", "split": "train"}
+{"text": "I no longer need service plan demo-0504; please close it. Could someone investigate?", "label": "cancellation", "group": "cancellation-family-4", "split": "train"}
+{"text": "I no longer need service plan demo-0505; please close it. The problem is still happening.", "label": "cancellation", "group": "cancellation-family-4", "split": "train"}
+{"text": "I want to stop the recurring plan demo-0201. This started today.", "label": "cancellation", "group": "cancellation-family-1", "split": "train"}
+{"text": "I want to stop the recurring plan demo-0202. Please check when you can.", "label": "cancellation", "group": "cancellation-family-1", "split": "train"}
+{"text": "I want to stop the recurring plan demo-0203. I have already tried again.", "label": "cancellation", "group": "cancellation-family-1", "split": "train"}
+{"text": "I want to stop the recurring plan demo-0204. Could someone investigate?", "label": "cancellation", "group": "cancellation-family-1", "split": "train"}
+{"text": "I want to stop the recurring plan demo-0205. The problem is still happening.", "label": "cancellation", "group": "cancellation-family-1", "split": "train"}
+{"text": "I would like to unsubscribe from package demo-0701. This started today.", "label": "cancellation", "group": "cancellation-family-6", "split": "train"}
+{"text": "I would like to unsubscribe from package demo-0702. Please check when you can.", "label": "cancellation", "group": "cancellation-family-6", "split": "train"}
+{"text": "I would like to unsubscribe from package demo-0703. I have already tried again.", "label": "cancellation", "group": "cancellation-family-6", "split": "train"}
+{"text": "I would like to unsubscribe from package demo-0704. Could someone investigate?", "label": "cancellation", "group": "cancellation-family-6", "split": "train"}
+{"text": "I would like to unsubscribe from package demo-0705. The problem is still happening.", "label": "cancellation", "group": "cancellation-family-6", "split": "train"}
+{"text": "Please terminate my monthly membership demo-0601. This started today.", "label": "cancellation", "group": "cancellation-family-5", "split": "train"}
+{"text": "Please terminate my monthly membership demo-0602. Please check when you can.", "label": "cancellation", "group": "cancellation-family-5", "split": "train"}
+{"text": "Please terminate my monthly membership demo-0603. I have already tried again.", "label": "cancellation", "group": "cancellation-family-5", "split": "train"}
+{"text": "Please terminate my monthly membership demo-0604. Could someone investigate?", "label": "cancellation", "group": "cancellation-family-5", "split": "train"}
+{"text": "Please terminate my monthly membership demo-0605. The problem is still happening.", "label": "cancellation", "group": "cancellation-family-5", "split": "train"}
+{"text": "Can you check the shipping status of parcel demo-0201? This started today.", "label": "delivery", "group": "delivery-family-1", "split": "train"}
+{"text": "Can you check the shipping status of parcel demo-0202? Please check when you can.", "label": "delivery", "group": "delivery-family-1", "split": "train"}
+{"text": "Can you check the shipping status of parcel demo-0203? I have already tried again.", "label": "delivery", "group": "delivery-family-1", "split": "train"}
+{"text": "Can you check the shipping status of parcel demo-0204? Could someone investigate?", "label": "delivery", "group": "delivery-family-1", "split": "train"}
+{"text": "Can you check the shipping status of parcel demo-0205? The problem is still happening.", "label": "delivery", "group": "delivery-family-1", "split": "train"}
+{"text": "I need an updated arrival date for order demo-0801. This started today.", "label": "delivery", "group": "delivery-family-7", "split": "train"}
+{"text": "I need an updated arrival date for order demo-0802. Please check when you can.", "label": "delivery", "group": "delivery-family-7", "split": "train"}
+{"text": "I need an updated arrival date for order demo-0803. I have already tried again.", "label": "delivery", "group": "delivery-family-7", "split": "train"}
+{"text": "I need an updated arrival date for order demo-0804. Could someone investigate?", "label": "delivery", "group": "delivery-family-7", "split": "train"}
+{"text": "I need an updated arrival date for order demo-0805. The problem is still happening.", "label": "delivery", "group": "delivery-family-7", "split": "train"}
+{"text": "My delivery for order demo-0501 went to the wrong address. This started today.", "label": "delivery", "group": "delivery-family-4", "split": "train"}
+{"text": "My delivery for order demo-0502 went to the wrong address. Please check when you can.", "label": "delivery", "group": "delivery-family-4", "split": "train"}
+{"text": "My delivery for order demo-0503 went to the wrong address. I have already tried again.", "label": "delivery", "group": "delivery-family-4", "split": "train"}
+{"text": "My delivery for order demo-0504 went to the wrong address. Could someone investigate?", "label": "delivery", "group": "delivery-family-4", "split": "train"}
+{"text": "My delivery for order demo-0505 went to the wrong address. The problem is still happening.", "label": "delivery", "group": "delivery-family-4", "split": "train"}
+{"text": "Package demo-0401 was marked delivered but is missing. This started today.", "label": "delivery", "group": "delivery-family-3", "split": "train"}
+{"text": "Package demo-0402 was marked delivered but is missing. Please check when you can.", "label": "delivery", "group": "delivery-family-3", "split": "train"}
+{"text": "Package demo-0403 was marked delivered but is missing. I have already tried again.", "label": "delivery", "group": "delivery-family-3", "split": "train"}
+{"text": "Package demo-0404 was marked delivered but is missing. Could someone investigate?", "label": "delivery", "group": "delivery-family-3", "split": "train"}
+{"text": "Package demo-0405 was marked delivered but is missing. The problem is still happening.", "label": "delivery", "group": "delivery-family-3", "split": "train"}
+{"text": "Shipment demo-0701 seems stuck at the distribution center. This started today.", "label": "delivery", "group": "delivery-family-6", "split": "train"}
+{"text": "Shipment demo-0702 seems stuck at the distribution center. Please check when you can.", "label": "delivery", "group": "delivery-family-6", "split": "train"}
+{"text": "Shipment demo-0703 seems stuck at the distribution center. I have already tried again.", "label": "delivery", "group": "delivery-family-6", "split": "train"}
+{"text": "Shipment demo-0704 seems stuck at the distribution center. Could someone investigate?", "label": "delivery", "group": "delivery-family-6", "split": "train"}
+{"text": "Shipment demo-0705 seems stuck at the distribution center. The problem is still happening.", "label": "delivery", "group": "delivery-family-6", "split": "train"}
+{"text": "When will the courier bring parcel demo-0601? This started today.", "label": "delivery", "group": "delivery-family-5", "split": "train"}
+{"text": "When will the courier bring parcel demo-0602? Please check when you can.", "label": "delivery", "group": "delivery-family-5", "split": "train"}
+{"text": "When will the courier bring parcel demo-0603? I have already tried again.", "label": "delivery", "group": "delivery-family-5", "split": "train"}
+{"text": "When will the courier bring parcel demo-0604? Could someone investigate?", "label": "delivery", "group": "delivery-family-5", "split": "train"}
+{"text": "When will the courier bring parcel demo-0605? The problem is still happening.", "label": "delivery", "group": "delivery-family-5", "split": "train"}
+{"text": "I am locked out of profile demo-0501. This started today.", "label": "login", "group": "login-family-4", "split": "train"}
+{"text": "I am locked out of profile demo-0502. Please check when you can.", "label": "login", "group": "login-family-4", "split": "train"}
+{"text": "I am locked out of profile demo-0503. I have already tried again.", "label": "login", "group": "login-family-4", "split": "train"}
+{"text": "I am locked out of profile demo-0504. Could someone investigate?", "label": "login", "group": "login-family-4", "split": "train"}
+{"text": "I am locked out of profile demo-0505. The problem is still happening.", "label": "login", "group": "login-family-4", "split": "train"}
+{"text": "I cannot sign in to account demo-0101 after resetting my password. This started today.", "label": "login", "group": "login-family-0", "split": "train"}
+{"text": "I cannot sign in to account demo-0102 after resetting my password. Please check when you can.", "label": "login", "group": "login-family-0", "split": "train"}
+{"text": "I cannot sign in to account demo-0103 after resetting my password. I have already tried again.", "label": "login", "group": "login-family-0", "split": "train"}
+{"text": "I cannot sign in to account demo-0104 after resetting my password. Could someone investigate?", "label": "login", "group": "login-family-0", "split": "train"}
+{"text": "I cannot sign in to account demo-0105 after resetting my password. The problem is still happening.", "label": "login", "group": "login-family-0", "split": "train"}
+{"text": "My login for profile demo-0201 keeps being rejected. This started today.", "label": "login", "group": "login-family-1", "split": "train"}
+{"text": "My login for profile demo-0202 keeps being rejected. Please check when you can.", "label": "login", "group": "login-family-1", "split": "train"}
+{"text": "My login for profile demo-0203 keeps being rejected. I have already tried again.", "label": "login", "group": "login-family-1", "split": "train"}
+{"text": "My login for profile demo-0204 keeps being rejected. Could someone investigate?", "label": "login", "group": "login-family-1", "split": "train"}
+{"text": "My login for profile demo-0205 keeps being rejected. The problem is still happening.", "label": "login", "group": "login-family-1", "split": "train"}
+{"text": "Signing into user demo-0401 returns an authentication error. This started today.", "label": "login", "group": "login-family-3", "split": "train"}
+{"text": "Signing into user demo-0402 returns an authentication error. Please check when you can.", "label": "login", "group": "login-family-3", "split": "train"}
+{"text": "Signing into user demo-0403 returns an authentication error. I have already tried again.", "label": "login", "group": "login-family-3", "split": "train"}
+{"text": "Signing into user demo-0404 returns an authentication error. Could someone investigate?", "label": "login", "group": "login-family-3", "split": "train"}
+{"text": "Signing into user demo-0405 returns an authentication error. The problem is still happening.", "label": "login", "group": "login-family-3", "split": "train"}
+{"text": "The password reset link for account demo-0601 has expired. This started today.", "label": "login", "group": "login-family-5", "split": "train"}
+{"text": "The password reset link for account demo-0602 has expired. Please check when you can.", "label": "login", "group": "login-family-5", "split": "train"}
+{"text": "The password reset link for account demo-0603 has expired. I have already tried again.", "label": "login", "group": "login-family-5", "split": "train"}
+{"text": "The password reset link for account demo-0604 has expired. Could someone investigate?", "label": "login", "group": "login-family-5", "split": "train"}
+{"text": "The password reset link for account demo-0605 has expired. The problem is still happening.", "label": "login", "group": "login-family-5", "split": "train"}
+{"text": "Two-factor authentication is stopping access to profile demo-0701. This started today.", "label": "login", "group": "login-family-6", "split": "train"}
+{"text": "Two-factor authentication is stopping access to profile demo-0702. Please check when you can.", "label": "login", "group": "login-family-6", "split": "train"}
+{"text": "Two-factor authentication is stopping access to profile demo-0703. I have already tried again.", "label": "login", "group": "login-family-6", "split": "train"}
+{"text": "Two-factor authentication is stopping access to profile demo-0704. Could someone investigate?", "label": "login", "group": "login-family-6", "split": "train"}
+{"text": "Two-factor authentication is stopping access to profile demo-0705. The problem is still happening.", "label": "login", "group": "login-family-6", "split": "train"}
+{"text": "Buttons in workspace demo-0601 are unresponsive. This started today.", "label": "technical", "group": "technical-family-5", "split": "train"}
+{"text": "Buttons in workspace demo-0602 are unresponsive. Please check when you can.", "label": "technical", "group": "technical-family-5", "split": "train"}
+{"text": "Buttons in workspace demo-0603 are unresponsive. I have already tried again.", "label": "technical", "group": "technical-family-5", "split": "train"}
+{"text": "Buttons in workspace demo-0604 are unresponsive. Could someone investigate?", "label": "technical", "group": "technical-family-5", "split": "train"}
+{"text": "Buttons in workspace demo-0605 are unresponsive. The problem is still happening.", "label": "technical", "group": "technical-family-5", "split": "train"}
+{"text": "I get a server error while loading resource demo-0401. This started today.", "label": "technical", "group": "technical-family-3", "split": "train"}
+{"text": "I get a server error while loading resource demo-0402. Please check when you can.", "label": "technical", "group": "technical-family-3", "split": "train"}
+{"text": "I get a server error while loading resource demo-0403. I have already tried again.", "label": "technical", "group": "technical-family-3", "split": "train"}
+{"text": "I get a server error while loading resource demo-0404. Could someone investigate?", "label": "technical", "group": "technical-family-3", "split": "train"}
+{"text": "I get a server error while loading resource demo-0405. The problem is still happening.", "label": "technical", "group": "technical-family-3", "split": "train"}
+{"text": "The app stops responding while processing file demo-0801. This started today.", "label": "technical", "group": "technical-family-7", "split": "train"}
+{"text": "The app stops responding while processing file demo-0802. Please check when you can.", "label": "technical", "group": "technical-family-7", "split": "train"}
+{"text": "The app stops responding while processing file demo-0803. I have already tried again.", "label": "technical", "group": "technical-family-7", "split": "train"}
+{"text": "The app stops responding while processing file demo-0804. Could someone investigate?", "label": "technical", "group": "technical-family-7", "split": "train"}
+{"text": "The app stops responding while processing file demo-0805. The problem is still happening.", "label": "technical", "group": "technical-family-7", "split": "train"}
+{"text": "The export for report demo-0501 fails halfway through. This started today.", "label": "technical", "group": "technical-family-4", "split": "train"}
+{"text": "The export for report demo-0502 fails halfway through. Please check when you can.", "label": "technical", "group": "technical-family-4", "split": "train"}
+{"text": "The export for report demo-0503 fails halfway through. I have already tried again.", "label": "technical", "group": "technical-family-4", "split": "train"}
+{"text": "The export for report demo-0504 fails halfway through. Could someone investigate?", "label": "technical", "group": "technical-family-4", "split": "train"}
+{"text": "The export for report demo-0505 fails halfway through. The problem is still happening.", "label": "technical", "group": "technical-family-4", "split": "train"}
+{"text": "The page for item demo-0701 never finishes loading. This started today.", "label": "technical", "group": "technical-family-6", "split": "train"}
+{"text": "The page for item demo-0702 never finishes loading. Please check when you can.", "label": "technical", "group": "technical-family-6", "split": "train"}
+{"text": "The page for item demo-0703 never finishes loading. I have already tried again.", "label": "technical", "group": "technical-family-6", "split": "train"}
+{"text": "The page for item demo-0704 never finishes loading. Could someone investigate?", "label": "technical", "group": "technical-family-6", "split": "train"}
+{"text": "The page for item demo-0705 never finishes loading. The problem is still happening.", "label": "technical", "group": "technical-family-6", "split": "train"}
+{"text": "Uploading document demo-0201 causes the app to freeze. This started today.", "label": "technical", "group": "technical-family-1", "split": "train"}
+{"text": "Uploading document demo-0202 causes the app to freeze. Please check when you can.", "label": "technical", "group": "technical-family-1", "split": "train"}
+{"text": "Uploading document demo-0203 causes the app to freeze. I have already tried again.", "label": "technical", "group": "technical-family-1", "split": "train"}
+{"text": "Uploading document demo-0204 causes the app to freeze. Could someone investigate?", "label": "technical", "group": "technical-family-1", "split": "train"}
+{"text": "Uploading document demo-0205 causes the app to freeze. The problem is still happening.", "label": "technical", "group": "technical-family-1", "split": "train"}

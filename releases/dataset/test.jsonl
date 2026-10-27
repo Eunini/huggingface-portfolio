@@ -1,0 +1,30 @@
+{"text": "Help me correct the personal information on user demo-0701. This started today.", "label": "account", "group": "account-family-6", "split": "test"}
+{"text": "Help me correct the personal information on user demo-0702. Please check when you can.", "label": "account", "group": "account-family-6", "split": "test"}
+{"text": "Help me correct the personal information on user demo-0703. I have already tried again.", "label": "account", "group": "account-family-6", "split": "test"}
+{"text": "Help me correct the personal information on user demo-0704. Could someone investigate?", "label": "account", "group": "account-family-6", "split": "test"}
+{"text": "Help me correct the personal information on user demo-0705. The problem is still happening.", "label": "account", "group": "account-family-6", "split": "test"}
+{"text": "Please explain the extra amount on invoice demo-0701. This started today.", "label": "billing", "group": "billing-family-6", "split": "test"}
+{"text": "Please explain the extra amount on invoice demo-0702. Please check when you can.", "label": "billing", "group": "billing-family-6", "split": "test"}
+{"text": "Please explain the extra amount on invoice demo-0703. I have already tried again.", "label": "billing", "group": "billing-family-6", "split": "test"}
+{"text": "Please explain the extra amount on invoice demo-0704. Could someone investigate?", "label": "billing", "group": "billing-family-6", "split": "test"}
+{"text": "Please explain the extra amount on invoice demo-0705. The problem is still happening.", "label": "billing", "group": "billing-family-6", "split": "test"}
+{"text": "Please cancel subscription demo-0101 before the next renewal. This started today.", "label": "cancellation", "group": "cancellation-family-0", "split": "test"}
+{"text": "Please cancel subscription demo-0102 before the next renewal. Please check when you can.", "label": "cancellation", "group": "cancellation-family-0", "split": "test"}
+{"text": "Please cancel subscription demo-0103 before the next renewal. I have already tried again.", "label": "cancellation", "group": "cancellation-family-0", "split": "test"}
+{"text": "Please cancel subscription demo-0104 before the next renewal. Could someone investigate?", "label": "cancellation", "group": "cancellation-family-0", "split": "test"}
+{"text": "Please cancel subscription demo-0105 before the next renewal. The problem is still happening.", "label": "cancellation", "group": "cancellation-family-0", "split": "test"}
+{"text": "The tracking information for shipment demo-0301 has not updated. This started today.", "label": "delivery", "group": "delivery-family-2", "split": "test"}
+{"text": "The tracking information for shipment demo-0302 has not updated. Please check when you can.", "label": "delivery", "group": "delivery-family-2", "split": "test"}
+{"text": "The tracking information for shipment demo-0303 has not updated. I have already tried again.", "label": "delivery", "group": "delivery-family-2", "split": "test"}
+{"text": "The tracking information for shipment demo-0304 has not updated. Could someone investigate?", "label": "delivery", "group": "delivery-family-2", "split": "test"}
+{"text": "The tracking information for shipment demo-0305 has not updated. The problem is still happening.", "label": "delivery", "group": "delivery-family-2", "split": "test"}
+{"text": "The sign-in page says the credentials for account demo-0801 are invalid. This started today.", "label": "login", "group": "login-family-7", "split": "test"}
+{"text": "The sign-in page says the credentials for account demo-0802 are invalid. Please check when you can.", "label": "login", "group": "login-family-7", "split": "test"}
+{"text": "The sign-in page says the credentials for account demo-0803 are invalid. I have already tried again.", "label": "login", "group": "login-family-7", "split": "test"}
+{"text": "The sign-in page says the credentials for account demo-0804 are invalid. Could someone investigate?", "label": "login", "group": "login-family-7", "split": "test"}
+{"text": "The sign-in page says the credentials for account demo-0805 are invalid. The problem is still happening.", "label": "login", "group": "login-family-7", "split": "test"}
+{"text": "The dashboard for workspace demo-0301 shows a blank screen. This started today.", "label": "technical", "group": "technical-family-2", "split": "test"}
+{"text": "The dashboard for workspace demo-0302 shows a blank screen. Please check when you can.", "label": "technical", "group": "technical-family-2", "split": "test"}
+{"text": "The dashboard for workspace demo-0303 shows a blank screen. I have already tried again.", "label": "technical", "group": "technical-family-2", "split": "test"}
+{"text": "The dashboard for workspace demo-0304 shows a blank screen. Could someone investigate?", "label": "technical", "group": "technical-family-2", "split": "test"}
+{"text": "The dashboard for workspace demo-0305 shows a blank screen. The problem is still happening.", "label": "technical", "group": "technical-family-2", "split": "test"}

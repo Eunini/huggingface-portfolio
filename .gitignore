@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+web/dist/
+releases/*-space/
+releases/model/*.safetensors
+releases/model/onnx/
+releases/model/adapter/
+evidence/browser/
+test-results/
+playwright-report/
+__pycache__/

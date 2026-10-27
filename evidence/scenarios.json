@@ -1,0 +1,514 @@
+{
+  "measured_at": "2026-10-27T23:31:55.895Z",
+  "scope": "deterministic public reference engine only",
+  "total": 34,
+  "passed": 34,
+  "cases": [
+    {
+      "id": "hotel-booking",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "link_prepared",
+        "booking_confirmed"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "link_prepared",
+        "booking_confirmed"
+      ]
+    },
+    {
+      "id": "hotel-last-room",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "offer_created",
+        "hold_created",
+        "sold_out"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "offer_created",
+        "hold_created",
+        "sold_out"
+      ]
+    },
+    {
+      "id": "hotel-wrong-amount",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "payment_mismatch"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "payment_mismatch"
+      ]
+    },
+    {
+      "id": "hotel-currency",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "payment_mismatch"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "payment_mismatch"
+      ]
+    },
+    {
+      "id": "hotel-signature",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "signature_rejected"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "signature_rejected"
+      ]
+    },
+    {
+      "id": "hotel-replay",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "duplicate_event"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "duplicate_event"
+      ]
+    },
+    {
+      "id": "hotel-event-conflict",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "event_conflict"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "event_conflict"
+      ]
+    },
+    {
+      "id": "hotel-offer-expired",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "time_advanced",
+        "stale_offer"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "time_advanced",
+        "stale_offer"
+      ]
+    },
+    {
+      "id": "hotel-late-payment",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "time_advanced",
+        "reconciliation_required"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "time_advanced",
+        "reconciliation_required"
+      ]
+    },
+    {
+      "id": "hotel-expired-release",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "time_advanced",
+        "offer_created"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "time_advanced",
+        "offer_created"
+      ]
+    },
+    {
+      "id": "hotel-client-price",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "price_mismatch"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "price_mismatch"
+      ]
+    },
+    {
+      "id": "hotel-no-consent",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "consent_required"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "consent_required"
+      ]
+    },
+    {
+      "id": "hotel-delivery-replay",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "link_prepared",
+        "delivery_exists"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "link_prepared",
+        "delivery_exists"
+      ]
+    },
+    {
+      "id": "hotel-cancel-identity",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "verification_required"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "verification_required"
+      ]
+    },
+    {
+      "id": "hotel-cancel-valid",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "booking_cancelled",
+        "offer_created"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "booking_cancelled",
+        "offer_created"
+      ]
+    },
+    {
+      "id": "hotel-adjacent",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "offer_created"
+      ],
+      "observed_codes": [
+        "offer_created",
+        "hold_created",
+        "booking_confirmed",
+        "offer_created"
+      ]
+    },
+    {
+      "id": "hotel-invalid-date",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "invalid_stay"
+      ],
+      "observed_codes": [
+        "invalid_stay"
+      ]
+    },
+    {
+      "id": "hotel-reversed-date",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "invalid_stay"
+      ],
+      "observed_codes": [
+        "invalid_stay"
+      ]
+    },
+    {
+      "id": "hotel-missing-hold",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "reconciliation_required"
+      ],
+      "observed_codes": [
+        "reconciliation_required"
+      ]
+    },
+    {
+      "id": "hotel-handoff",
+      "project": "hotel",
+      "passed": true,
+      "expected_codes": [
+        "staff_handoff"
+      ],
+      "observed_codes": [
+        "staff_handoff"
+      ]
+    },
+    {
+      "id": "sdr-disclosure",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "ai_disclosed"
+      ],
+      "observed_codes": [
+        "ai_disclosed"
+      ]
+    },
+    {
+      "id": "sdr-no-permission",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_required"
+      ],
+      "observed_codes": [
+        "permission_required"
+      ]
+    },
+    {
+      "id": "sdr-permission",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "discovery"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "discovery"
+      ]
+    },
+    {
+      "id": "sdr-declined",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_declined",
+        "conversation_closed"
+      ],
+      "observed_codes": [
+        "permission_declined",
+        "conversation_closed"
+      ]
+    },
+    {
+      "id": "sdr-optout",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "suppressed",
+        "conversation_closed"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "suppressed",
+        "conversation_closed"
+      ]
+    },
+    {
+      "id": "sdr-calendar-failure",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "calendar_unavailable"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "calendar_unavailable"
+      ]
+    },
+    {
+      "id": "sdr-calendar-confirm",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "slot_offered",
+        "meeting_recorded"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "slot_offered",
+        "meeting_recorded"
+      ]
+    },
+    {
+      "id": "sdr-no-confirm",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "slot_offered",
+        "confirmation_required"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "slot_offered",
+        "confirmation_required"
+      ]
+    },
+    {
+      "id": "sdr-no-slot",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "confirmation_required"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "confirmation_required"
+      ]
+    },
+    {
+      "id": "sdr-followup-consent",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "delivery_consent_required"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "delivery_consent_required"
+      ]
+    },
+    {
+      "id": "sdr-followup-idempotent",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "followup_prepared",
+        "followup_exists"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "followup_prepared",
+        "followup_exists"
+      ]
+    },
+    {
+      "id": "sdr-bargein",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "reply_started",
+        "playback_cancelled",
+        "stale_audio_dropped"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "reply_started",
+        "playback_cancelled",
+        "stale_audio_dropped"
+      ]
+    },
+    {
+      "id": "sdr-new-turn",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "reply_started",
+        "playback_cancelled",
+        "reply_started",
+        "stale_audio_dropped",
+        "chunk_accepted"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "reply_started",
+        "playback_cancelled",
+        "reply_started",
+        "stale_audio_dropped",
+        "chunk_accepted"
+      ]
+    },
+    {
+      "id": "sdr-optout-audio",
+      "project": "sdr",
+      "passed": true,
+      "expected_codes": [
+        "permission_granted",
+        "reply_started",
+        "suppressed",
+        "conversation_closed"
+      ],
+      "observed_codes": [
+        "permission_granted",
+        "reply_started",
+        "suppressed",
+        "conversation_closed"
+      ]
+    }
+  ]
+}

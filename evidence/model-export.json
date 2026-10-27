@@ -1,0 +1,115 @@
+{
+  "status": "passed",
+  "test_samples": 30,
+  "original_vs_merged_max_absolute_logit_error": 4.76837158203125e-07,
+  "merged_vs_onnx_max_absolute_logit_error": 6.556510925292969e-07,
+  "prediction_agreement": 1.0,
+  "onnx_metrics": {
+    "accuracy": 0.5666666666666667,
+    "macro_f1": 0.51994301994302,
+    "samples": 30,
+    "labels": [
+      "account",
+      "billing",
+      "cancellation",
+      "delivery",
+      "login",
+      "technical"
+    ],
+    "confusion_matrix": [
+      [
+        5,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        3,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        4,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    ],
+    "per_class": [
+      {
+        "label": "account",
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "support": 5
+      },
+      {
+        "label": "billing",
+        "precision": 0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      },
+      {
+        "label": "cancellation",
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0,
+        "support": 5
+      },
+      {
+        "label": "delivery",
+        "precision": 0.375,
+        "recall": 0.6,
+        "f1": 0.4615384615384615,
+        "support": 5
+      },
+      {
+        "label": "login",
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1": 0.888888888888889,
+        "support": 5
+      },
+      {
+        "label": "technical",
+        "precision": 0.625,
+        "recall": 1.0,
+        "f1": 0.7692307692307693,
+        "support": 5
+      }
+    ]
+  },
+  "additional_dynamic_shape_batches": 3
+}

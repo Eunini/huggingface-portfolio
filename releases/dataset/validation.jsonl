@@ -1,0 +1,30 @@
+{"text": "I need to update the contact details on profile demo-0101. This started today.", "label": "account", "group": "account-family-0", "split": "validation"}
+{"text": "I need to update the contact details on profile demo-0102. Please check when you can.", "label": "account", "group": "account-family-0", "split": "validation"}
+{"text": "I need to update the contact details on profile demo-0103. I have already tried again.", "label": "account", "group": "account-family-0", "split": "validation"}
+{"text": "I need to update the contact details on profile demo-0104. Could someone investigate?", "label": "account", "group": "account-family-0", "split": "validation"}
+{"text": "I need to update the contact details on profile demo-0105. The problem is still happening.", "label": "account", "group": "account-family-0", "split": "validation"}
+{"text": "The amount deducted for purchase demo-0801 looks incorrect. This started today.", "label": "billing", "group": "billing-family-7", "split": "validation"}
+{"text": "The amount deducted for purchase demo-0802 looks incorrect. Please check when you can.", "label": "billing", "group": "billing-family-7", "split": "validation"}
+{"text": "The amount deducted for purchase demo-0803 looks incorrect. I have already tried again.", "label": "billing", "group": "billing-family-7", "split": "validation"}
+{"text": "The amount deducted for purchase demo-0804 looks incorrect. Could someone investigate?", "label": "billing", "group": "billing-family-7", "split": "validation"}
+{"text": "The amount deducted for purchase demo-0805 looks incorrect. The problem is still happening.", "label": "billing", "group": "billing-family-7", "split": "validation"}
+{"text": "Turn off automatic renewal for subscription demo-0401. This started today.", "label": "cancellation", "group": "cancellation-family-3", "split": "validation"}
+{"text": "Turn off automatic renewal for subscription demo-0402. Please check when you can.", "label": "cancellation", "group": "cancellation-family-3", "split": "validation"}
+{"text": "Turn off automatic renewal for subscription demo-0403. I have already tried again.", "label": "cancellation", "group": "cancellation-family-3", "split": "validation"}
+{"text": "Turn off automatic renewal for subscription demo-0404. Could someone investigate?", "label": "cancellation", "group": "cancellation-family-3", "split": "validation"}
+{"text": "Turn off automatic renewal for subscription demo-0405. The problem is still happening.", "label": "cancellation", "group": "cancellation-family-3", "split": "validation"}
+{"text": "Order demo-0101 has not arrived despite the delivery estimate. This started today.", "label": "delivery", "group": "delivery-family-0", "split": "validation"}
+{"text": "Order demo-0102 has not arrived despite the delivery estimate. Please check when you can.", "label": "delivery", "group": "delivery-family-0", "split": "validation"}
+{"text": "Order demo-0103 has not arrived despite the delivery estimate. I have already tried again.", "label": "delivery", "group": "delivery-family-0", "split": "validation"}
+{"text": "Order demo-0104 has not arrived despite the delivery estimate. Could someone investigate?", "label": "delivery", "group": "delivery-family-0", "split": "validation"}
+{"text": "Order demo-0105 has not arrived despite the delivery estimate. The problem is still happening.", "label": "delivery", "group": "delivery-family-0", "split": "validation"}
+{"text": "The verification code for account demo-0301 never arrives. This started today.", "label": "login", "group": "login-family-2", "split": "validation"}
+{"text": "The verification code for account demo-0302 never arrives. Please check when you can.", "label": "login", "group": "login-family-2", "split": "validation"}
+{"text": "The verification code for account demo-0303 never arrives. I have already tried again.", "label": "login", "group": "login-family-2", "split": "validation"}
+{"text": "The verification code for account demo-0304 never arrives. Could someone investigate?", "label": "login", "group": "login-family-2", "split": "validation"}
+{"text": "The verification code for account demo-0305 never arrives. The problem is still happening.", "label": "login", "group": "login-family-2", "split": "validation"}
+{"text": "The application crashes when opening project demo-0101. This started today.", "label": "technical", "group": "technical-family-0", "split": "validation"}
+{"text": "The application crashes when opening project demo-0102. Please check when you can.", "label": "technical", "group": "technical-family-0", "split": "validation"}
+{"text": "The application crashes when opening project demo-0103. I have already tried again.", "label": "technical", "group": "technical-family-0", "split": "validation"}
+{"text": "The application crashes when opening project demo-0104. Could someone investigate?", "label": "technical", "group": "technical-family-0", "split": "validation"}
+{"text": "The application crashes when opening project demo-0105. The problem is still happening.", "label": "technical", "group": "technical-family-0", "split": "validation"}

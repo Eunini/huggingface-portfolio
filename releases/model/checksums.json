@@ -1,0 +1,21 @@
+{
+  "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+  "README.md": "870734e8174eccb92abbe2501581deaec4142c0ba5bfaa5a4ecff9ed7bfc4f6e",
+  "adapter/LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+  "adapter/README.md": "d57d48d3b5d532738d864a37800a40f75156d3181c1b823b70593a3d35a1dde5",
+  "adapter/adapter_config.json": "7b9b1c99aa05836fe4a4df538162631ee20bc355eed8c265a99c7d729e28214f",
+  "adapter/adapter_model.safetensors": "8d3668b04939786dd80e337ba351591f8ea40a1fe9ca4d39e2cb5add8cdc712d",
+  "adapter/tokenizer.json": "c3bbeac7c7669ec478d44bac871031a47b39935533558d252d5b7699e7d4d457",
+  "adapter/tokenizer_config.json": "9f0c2c65a70ea18113ffa2e717103e7210ea826e7acc3442b69b346686b55a48",
+  "config.json": "e15823c9cba826b2dca57fe593225922e4fe907ae7457cbeb750562cd698951a",
+  "dataset_manifest.json": "113a468444b1b5c5e70ca2fafbd12d96ff620aae0a5871a30eafa511469a4704",
+  "evaluation.json": "a0c1b0be906aa2748c1d58097ed93ae6f18566729efd461048716181d5cba3f5",
+  "export_verification.json": "96c1ed2836d152de27a30c9375e70320bcd64a3c204058fc3c537eea320cd288",
+  "model.safetensors": "81f21ef7709c5c01415b620578f8d7b81d42750022a5176f0d1a3bc97a165001",
+  "onnx/model.onnx": "8cf4ccea46124d4eecc2de7592e3744c4e7c8cacc3bd0f67efc927f13bec77c5",
+  "provenance.json": "a7a75e69b7dabaf27ad2a8e23f0e73010bf8683b3ff0c9e20c763e37b9c64e98",
+  "run.json": "2af71a017bebec6fbe438d1be1191582b7487870db8de75f9fe1b411c9ce90f5",
+  "tokenizer.json": "c3bbeac7c7669ec478d44bac871031a47b39935533558d252d5b7699e7d4d457",
+  "tokenizer_config.json": "76379629d339fb1ffad3b21fa92dfe9b1d4f1769da41f06af6150b3eca416e26",
+  "training_history.json": "ad6e51619d1967dc079939384286bad45382f9f86d089c07a063e3ad5765f141"
+}
