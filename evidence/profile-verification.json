@@ -15,21 +15,22 @@
   "support-intent-grouped": {
     "viewer_http_status": 200,
     "viewer_status": {
-      "preview": false,
-      "viewer": false,
-      "search": false,
-      "filter": false,
-      "statistics": false
+      "preview": true,
+      "viewer": true,
+      "search": true,
+      "filter": true,
+      "statistics": true
     }
   },
   "voice-workflow-scenarios": {
     "viewer_http_status": 200,
     "viewer_status": {
-      "preview": false,
-      "viewer": false,
-      "search": false,
-      "filter": false,
+      "preview": true,
+      "viewer": true,
+      "search": true,
+      "filter": true,
       "statistics": false
     }
-  }
+  },
+  "checked_at": "2026-10-28T00:04:01.382085+00:00"
 }
